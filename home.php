@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="second.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>portfolio</title>
+    <title>Kemel</title>
 </head>
 <body>
     
@@ -23,7 +23,8 @@
     background: rgba(0,0,0,.7);
 }
     </style>
-    <h2>+996704 330 204</h2>
+    <h2>+996704 330 204
+    nurmambetovkemel@gmail.com</h2>
     
 </body>
 </html>
